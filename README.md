@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoelleMittel
 - 👀 I’m interested in ... redirecting my career path, reading high fantasy novels, and my kitty Leia
-- 🌱 I’m currently learning ...web development (Python and JavaScript)
+- 🌱 I’m currently learning ...software Engineering (HTML, CSS, JavaScript, SQL, React)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... noellemittelstaedt@gmail.com
 
